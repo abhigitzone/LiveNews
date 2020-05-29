@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="zero_dp">0dp</dimen>
+    <dimen name="l_6">6dp</dimen>
+    <dimen name="ig_height">200dp</dimen>
+    <dimen name="ly_50">50dp</dimen>
+    <dimen name="txt_16">16dp</dimen>
+    <dimen name="ly_4">4dp</dimen>
+</resources>

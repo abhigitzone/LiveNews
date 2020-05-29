@@ -1,0 +1,42 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="titleStyle" parent="Base.TextAppearance.AppCompat.Large">
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginRight">6dp</item>
+    </style>
+
+    <style name="newsType" parent="Base.TextAppearance.AppCompat.Small">
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:layout_marginStart">16dp</item>
+    </style>
+
+    <style name="newsAuthor" parent="Base.TextAppearance.AppCompat.Small">
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginRight">16dp</item>
+    </style>
+
+    <style name="newsDate" parent="Base.TextAppearance.AppCompat.Small">
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginLeft">16dp</item>
+    </style>
+
+    <style name="newsDesc" parent="Base.TextAppearance.AppCompat.Small">
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_marginEnd">4dp</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+</resources>

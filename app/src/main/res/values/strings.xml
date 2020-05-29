@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">liveNews</string>
+    <string name="author">News author</string>
+    <string name="date">News Date</string>
+    <string name="newsType">News Type</string>
+    <string name="newsTitle">News Title</string>
+    <string name="newsDesc">News Description</string>
+    <string name="networkErr">No Internet Connection, please check!</string>
+    <string name="updatedErr">Already Updated! No News To show</string>
+    <string name="news_img">news_img</string>
+    <string name="exit">Exit</string>
+    <string name="refresh">Refresh</string>
+    <string name="updated_just_now">updated just now</string>
+    <string name="news">News</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="vist">Thanks for visiting..</string>
+</resources>
